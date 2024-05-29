@@ -1,0 +1,21 @@
+[debug] [2024-05-29T17:14:45.003Z] ----------------------------------------------------------------------
+[debug] [2024-05-29T17:14:45.009Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\hradi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-05-29T17:14:45.009Z] CLI Version:   13.10.2
+[debug] [2024-05-29T17:14:45.010Z] Platform:      win32
+[debug] [2024-05-29T17:14:45.010Z] Node Version:  v20.13.1
+[debug] [2024-05-29T17:14:45.010Z] Time:          Wed May 29 2024 19:14:45 GMT+0200 (South Africa Standard Time)
+[debug] [2024-05-29T17:14:45.010Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-29T17:14:45.019Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-29T17:14:45.020Z] > authorizing via signed-in user (hradingoana@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\hradi\OneDrive\Desktop\Personal projects\expense_tracker
+
